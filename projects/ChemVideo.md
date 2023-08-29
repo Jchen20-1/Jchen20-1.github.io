@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/eggbroken.jpg
 title: "Egg Drop Experiment"
-date: 2022
+date: 2019-05-27
 published: true
 labels:
   - Davinci Resolve
