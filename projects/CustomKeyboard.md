@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Keyboard.JPG
+image: img/Keyboard.JPEG
 title: "Building Custom Keyboards"
 date: 2022-8-16
 published: true
