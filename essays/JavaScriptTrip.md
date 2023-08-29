@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="..img/struggle.png">
+<img width="200px" class="rounded float-start pe-4" src="/img/struggle.png">
 
 *If there's no struggle, there's no progress.*
 
@@ -25,4 +25,3 @@ Looking at JavaScript after the exercises, I understand why many people say that
 ##Athletic Coding?
 
 Going into this class, I was already familiar with the flipped classroom teaching style that was also incorporated into the 2 introduction to Java classes I had taken previously. In addition to that, this class introduced something called a WoD, or work of the week. It was additional practice that we would get to reinforce the materials that we would be learning on our own each week. The catch to this is that it was timed, something deeply related to stress. I first experienced the harsh reality of WoDs during my first practice WoD that we were supposed to do on our own after completing the FreeCodeCamp exercises. It was a very simple programming question, that asked us to write a simple program, but as soon as I started the stopwatch, my mind went completely blank as I stared at the question for a solid minute before I was able to start moving my fingers on the keyboard. It was a combination of my rusty coding skills, along with the stress of a timed activity that had stopped my brain from functioning. Although I was able to finish the question within the average rating, it still showed me how stressful and intense future WoDs can be, especially doing it in class. In my opinion, I believe WoDs will be very effective in training and strengthening the concepts that we learn every week, it forces us to not only go through the materials thoroughly, but also have us put those concepts into practice. It will be a struggle, just like everything else in life will be, but by going through the struggle, can we grow as a person, and move forward.  
-
