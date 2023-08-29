@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/brokenegg (1).jpg
+image: img/egg700.jpg
 title: "Egg Drop Experiment"
 date: 2019-05-27
 published: true
