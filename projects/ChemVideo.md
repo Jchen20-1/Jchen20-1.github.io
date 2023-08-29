@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/brokenegg.jpg
+image: img/brokenegg (1).jpg
 title: "Egg Drop Experiment"
 date: 2019-05-27
 published: true
@@ -10,8 +10,9 @@ labels:
   - Video Editing
 summary: "A video that I edited during sophomore year of high school for a group experiment we did on egg drops, using yeast and alka seltzer to create a protective layer to ensure that the egg doesn't crack during impact."
 ---
+
 <div class="ratio ratio-16x9">
-  <iframe src="https://www.youtube.com/embed/tFY9cl7IdKs?si=0xR4RxAtY7Eb8v_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/tFY9cl7IdKs" title="YouTube video" allowfullscreen></iframe>
 </div>
 
 
