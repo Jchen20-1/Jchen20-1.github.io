@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/Maple (1).jpg
 title: "Guild Photo"
-date: 2022
+date: 2022-12-31
 published: true
 labels:
   - Adobe Photoshop
