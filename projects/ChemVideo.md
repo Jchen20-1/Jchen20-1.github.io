@@ -10,7 +10,9 @@ labels:
   - Video Editing
 summary: "A video that I edited during sophomore year of high school for a group experiment we did on egg drops, using yeast and alka seltzer to create a protective layer to ensure that the egg doesn't crack during impact."
 ---
-<iframe src="https://youtu.be/tFY9cl7IdKs?si=wWguWZbEl8hkVqRz" title="YouTube Video" allowfullscreen></iframe>
+<div class="ratio ratio-16x9">
+  <iframe src="https://youtu.be/tFY9cl7IdKs?si=QSIvvdGsjidtbDg0" title="YouTube video" allowfullscreen></iframe>
+</div>
 
 During chemistry of sopomore year, we had an experiment that we were allowed to document, and present to the class. The objective of the experiment was to drop an egg down a tube from some decently high altitude, and using whatever material we could get at a super market, to prevent the egg from getting damaged. We had about 2 weeks to prepare, execute, and film the whole experiment. During the filming, we used our own cell phones to record any videos or segments of the experiment that we could, and I compiled everything and edited it together into one single video. Afterwards, I added in simple transitions and published it to YouTube. 
 
