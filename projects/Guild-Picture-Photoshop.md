@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/porodise22.png
+image: img/porodise22.jpeg
 title: "Guild Photo"
 date: 2022
 published: true
