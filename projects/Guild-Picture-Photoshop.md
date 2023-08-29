@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Maple.png
+image: img/Maple.jpg
 title: "Guild Photo"
 date: 2022
 published: true
