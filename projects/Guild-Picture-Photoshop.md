@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/porodise22.jpg
+image: img/MapleStory.SVG.png
 title: "Guild Photo"
 date: 2022
 published: true
