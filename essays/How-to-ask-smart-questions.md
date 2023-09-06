@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="img/askQuestions.jpg">
+<img width="300px" class="rounded float-start pe-4" src="img/Asking.png">
 
 ## Power of OpenSource
 
