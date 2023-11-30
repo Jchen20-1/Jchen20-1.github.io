@@ -12,7 +12,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="rounded float-start pe-4" src="../img/buildHouse.jpeg">
+<img width="1024" class="rounded float-start pe-4" src="../img/buildHouse.jpeg">
 
 ## Building and Construction
 
