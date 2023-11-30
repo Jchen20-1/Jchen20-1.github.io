@@ -12,6 +12,8 @@ labels:
   - Software Engineering
 ---
 
+<img class="rounded float-start pe-4" src="../img/buildHouse.jpeg">
+
 ## Building and Construction
 
 To me, design patterns can be seen as building a house. In the field of construction, there are a set of common rules that workers should follow when building a house, such as starting with the structure of the exterior, then the interior, or finishing the foundation before starting the framing and structure. These sets of practices are the standard and recommended ways of building a house. However, these practices generally don't limit the constructor workers as well as the homeowners ability to choose the materials to use for the house after the foundation has been laid. This allows flexibility for the user to  build on top of the foundation that it provides with their own choice of brick and mortar. This same foundation can then be used by another builder, but this time, they're using blue paint instead of red. In other words, anyone can follow these instructions and fill in with their own choice of materials to build a house completely different from their neighbors, but would still serve the same purpose. These rules also make it easy for everyone working on the project to be on the same page, as everyone is able to understand the work that needs to be done and when it needs to be done to successfully complete the project. 
