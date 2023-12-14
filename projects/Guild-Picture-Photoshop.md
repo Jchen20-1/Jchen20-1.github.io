@@ -4,7 +4,7 @@ type: project
 image: img/maple.jpg
 title: "Guild Photo"
 date: 2022-12-31
-published: true
+published: false
 labels:
   - Adobe Photoshop
 summary: "A picture I made by combining each game character model png onto a background map of the game in photoshop."

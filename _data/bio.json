@@ -21,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java" ]
+      "keywords": [ "Java", "Meteor", "React", "MongoDB" ]
     },
     {
       "name": "Toolsets/OS",
