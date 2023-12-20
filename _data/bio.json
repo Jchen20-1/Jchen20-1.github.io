@@ -21,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "Meteor", "React", "MongoDB" ]
+      "keywords": [ "Java", "JavaScript", "C", "C++", "Meteor", "React", "MongoDB" ]
     },
     {
       "name": "Toolsets/OS",
@@ -39,7 +39,7 @@
       "studyType": "B.S.",
       "startDate": "2021-09-01",
       "endDate": "Present",
-      "courses": [ "ICS111 and ICS211: Intro to Computer Science 1 & 2", "ICS141 and ICS241: Discrete Mathamatics 1 & 2", "ICS311: Algorithms"
+      "courses": [ "ICS111 and ICS211: Intro to Computer Science 1 & 2", "ICS141 and ICS241: Discrete Mathamatics 1 & 2", "ICS212: Program Structure", "ICS311: Algorithms", "ICS314: Software Engineering I", "ICS321: Databases"
       ]
     }
   ],
