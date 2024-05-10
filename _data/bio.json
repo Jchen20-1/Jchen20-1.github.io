@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "Jiawen Chen",
+    "label": "Student",
+    "picture": "https://github.com/jchen20-1.png",
+    "email": "jchen20@hawaii.edu",
+    "phone": "808-428-7040",
+    "website": "https://jchen20-1.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "Jchen20-1", "url": "https://github.com/Jchen20-1" },
+      { "network": "linkedin", "username": "Jiawen-Chen", "url": "https://www.linkedin.com/in/jiawen-chen-058a81289/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Game Design" },
+    { "name": "AI" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Java", "JavaScript", "C", "C++", "Meteor", "React", "MongoDB" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "WindowsOS", "Git/GitHub" ]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": [ "Communication skills", "Time management", "Problem-solving", "Customer service" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [ "ICS111 and ICS211: Intro to Computer Science 1 & 2", "ICS141 and ICS241: Discrete Mathamatics 1 & 2", "ICS212: Program Structure", "ICS311: Algorithms", "ICS314: Software Engineering I", "ICS321: Databases"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Target",
+      "position": "Tech Expert",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "summary": "Tech Consultant",
+      "highlights": [
+        "Greet, engage, and assist guests in tech issues.",
+        "Troubleshoot and repair issues regarding essential electronics.",
+        "Receive, validate, and replenish items onto the salesfloor.",
+        "Operated and maintained the cash registers.",
+        "Answered and assisted guests over the phone."
+      ]
+    }
+
+  ],
+  "awards": [
+    {
+      "title": "Fall 2021 Manoa Dean's List",
+      "date": "2021",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": ""
+    },
+    {
+    "title": "Fall 2022 Manoa Dean's List",
+    "date": "2022",
+    "awarder": "University of Hawaii at Manoa",
+    "summary": ""
+    }
+  ]
+}
